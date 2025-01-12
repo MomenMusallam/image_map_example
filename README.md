@@ -1,5 +1,7 @@
 # Image map example
 The idea behind an image map is that you should be able to perform different actions depending on where in the image you click. 
+# Demo
+https://momenmusallam.github.io/image_map_example/
 ## Getting Started 
 ### The Image
 The image is inserted using the ```<img>``` tag. The only difference from other images is that you must add a ```usemap``` attribute:
